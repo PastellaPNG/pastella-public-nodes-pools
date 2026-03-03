@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Official Pastella Node SSL",
+    "address": "seed.pastella.org",
+    "port": 443,
+    "ssl": true
+  },
+  {
+    "name": "Official Pastella Node 1",
+    "address": "seed.pastella.org",
+    "port": 21001,
+    "ssl": false
+  },
+  {
+    "name": "Official Pastella Node 1",
+    "address": "seed.pastella.org",
+    "port": 21101,
+    "ssl": false
+  },
+  {
+    "name": "Official Pastella Node 1",
+    "address": "seed.pastella.org",
+    "port": 21201,
+    "ssl": false
+  }
+]
